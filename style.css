@@ -1,0 +1,15 @@
+body {
+  width: 400px;
+  height: 300px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+}
+
+p {
+  border: 2px solid lightblue;
+  padding: 20px 40px;
+  font-size: 18px;
+}/*# sourceMappingURL=style.css.map */
